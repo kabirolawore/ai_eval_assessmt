@@ -33,6 +33,6 @@ This project evaluates the performance of a BERT-based writing automarker agains
 ## 🧪 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/kabirolawore/ai_eval_assessmt.git
-   cd ai_eval_assessmt
-   run
+   - git clone https://github.com/kabirolawore/ai_eval_assessmt.git
+   - cd ai_eval_assessmt
+   - run
